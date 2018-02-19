@@ -9,4 +9,7 @@ end
 def batch_badge_creator(arr)
   names_arr = []
   
+  arr.each do |name|
+     names_arr.push(badge_maker(name))
+  end
 end
