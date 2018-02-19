@@ -20,7 +20,6 @@ def assign_rooms(speakers)
   assignments = []  
   
   speakers.each_with_index { |index, speakers|
-  
     
   }
 end
