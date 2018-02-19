@@ -22,4 +22,5 @@ def assign_rooms(speakers)
   speakers.each_with_index { |index, speaker|
     assignments.push("Hello,#{speaker}! You'll be assigned to room #{index+1}!")
   }
+  assignments
 end
