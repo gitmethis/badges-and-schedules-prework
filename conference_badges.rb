@@ -14,3 +14,4 @@ def batch_badge_creator(arr)
   end
   names_arr
 end
+
