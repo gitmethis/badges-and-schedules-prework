@@ -16,6 +16,11 @@ def batch_badge_creator(arr)
 end
 
 
-def assign_rooms(list)
+def assign_rooms(speakers)
+  assignments = []  
   
+  speakers.each_with_index { |index, speakers|
+  
+    
+  }
 end
