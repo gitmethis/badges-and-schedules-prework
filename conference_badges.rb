@@ -7,5 +7,6 @@ end
 
 
 def batch_badge_creator(arr)
-    
+  names_arr = []
+  
 end
